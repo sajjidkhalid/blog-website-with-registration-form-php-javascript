@@ -450,6 +450,10 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                         <span><i class='bx bx-envelope' ></i></span>
                         <p><a href="mailto:codemyhobby9@gmail.com">sajjidkhalid@gmail.com</a></p>
                     </li>
+                     <li>
+                        <span><i class='bx bx-envelope' ></i></span>
+                        <p><a href="comment.php">Add a Comment On My Blog</a></p>
+                    </li>
                 </ul>
             </div>
         </div>
